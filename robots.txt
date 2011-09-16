@@ -1,1 +1,1 @@
-Sitemap: http://hutm.github.com/sitemap.xml
+Sitemap: http://www.khadkevich.org/sitemap.xml

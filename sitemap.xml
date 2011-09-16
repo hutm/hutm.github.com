@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://hutm.github.com/main.html</loc>
+		<loc>http://www.khadkevich.org/main.html</loc>
 		<priority>1</priority>
-		<loc>http://hutm.github.com/publications.html</loc>
+		<loc>http://www.khadkevich.org/publications.html</loc>
 		<priority>1</priority>
-		<loc>http://hutm.github.com/aboutme.html</loc>
+		<loc>http://www.khadkevich.org/aboutme.html</loc>
 		<priority>1</priority>
 	</url>
 </urlset>
