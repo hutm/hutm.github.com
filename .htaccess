@@ -1,3 +1,3 @@
 redirect / http://www.khadkevich.org
-redirect /main.shtml http://www.khadkevich.org/main.html
+
 
