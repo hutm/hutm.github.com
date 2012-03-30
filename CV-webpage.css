@@ -1,5 +1,6 @@
  
 /* start css.sty */
+.cmbx-12{ font-weight: bold;}
 .cmti-12{ font-style: italic;}
 p.noindent { text-indent: 0em }
 td p.noindent { text-indent: 0em; margin-top:0em; }
