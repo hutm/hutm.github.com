@@ -2,12 +2,15 @@
 layout: default
 title: Main
 ---
-<h3 class="sectionHead"><span class="titlemark"><span 
-class="cmr-10">1   </span></span> <a 
- id="x1-10001"></a><span 
+
+
+<link rel="stylesheet" type="text/css" href="CV-webpage.css"> 
+
+<h3 class="sectionHead"><a 
+ id="x1-1000"></a><span 
 class="cmr-10">Education</span></h3>
 <!--l. 32--><p class="noindent" ><span 
-class="cmti-12">2007 - 2011</span><span 
+class="cmti-12">2007 - 2011 </span><span 
 class="cmr-10">Ph.D. in Telecommunications at the </span><a 
 href="http://www.unitn.it/" ><span class="uline"><span 
 class="cmr-10">University</span> <span 
@@ -25,7 +28,7 @@ class="cmr-10">. Topic: &#8221;Music Signal Processing for Automatic Extraction 
 <br 
 class="newline" />
 <!--l. 34--><p class="noindent" ><span 
-class="cmti-12">2002 - 2007</span><span 
+class="cmti-12">2002 - 2007 </span><span 
 class="cmr-10">M.Sc., </span><span 
 class="cmti-12">magna cum laude</span><span 
 class="cmr-10">, Radiophysics, </span><a 
@@ -47,12 +50,11 @@ class="newline" /><span
 class="cmti-12">1993 - 1999</span><span 
 class="cmr-10">Music school, accordion.</span>
 <!--l. 44--><p class="noindent" >
-<h3 class="sectionHead"><span class="titlemark"><span 
-class="cmr-10">2   </span></span> <a 
- id="x1-20002"></a><span 
+<h3 class="sectionHead"><a 
+ id="x1-2000"></a><span 
 class="cmr-10">Professional experience</span></h3>
 <!--l. 46--><p class="noindent" ><span 
-class="cmti-12">Since Nov 2007</span><span 
+class="cmti-12">Since Nov 2007 </span><span 
 class="cmr-10">Researcher in </span><a 
 href="http://shine.fbk.eu/" ><span class="uline"><span 
 class="cmr-10">SHINE</span></span></a> <span 
@@ -65,7 +67,7 @@ class="cmr-10">, Trento, Italy. Digital signal processing for Music</span>
 <span 
 class="cmr-10">Information Retrieval. </span><br 
 class="newline" /><span 
-class="cmti-12">Nov 2010 - Feb 2011</span><span 
+class="cmti-12">Nov 2010 - Feb 2011 </span><span 
 class="cmr-10">Stage at </span><a 
 href="http://www.telecom-paristech.fr/" ><span class="uline"><span 
 class="cmr-10">T</span><span 
@@ -89,7 +91,7 @@ class="cmr-10">Waves</span> <span
 class="cmr-10">Group</span></span></a><span 
 class="cmr-10">, Paris, France. Research in the field of beat/downbeat estimation. </span><br 
 class="newline" /><span 
-class="cmti-12">Mar 2006 &#8211; Nov 2007</span><span 
+class="cmti-12">Mar 2006 &#8211; Nov 2007 </span><span 
 class="cmr-10">Java developer at </span><a 
 href="http://www.epam.com/" ><span class="uline"><span 
 class="cmr-10">EPAM</span> <span 
@@ -101,44 +103,27 @@ class="cmr-10">&#8221;Business</span> <span
 class="cmr-10">Intelligence&#8221;</span></span></a> <span 
 class="cmr-10">solutions. </span><br 
 class="newline" /><span 
-class="cmti-12">Sep 2006 &#8211; May 2007</span><span 
+class="cmti-12">Sep 2006 &#8211; May 2007 </span><span 
 class="cmr-10">Research Laboratory of </span><a 
 href="http://www.bsu.by/en/main.aspx" ><span class="uline"><span 
 class="cmr-10">Belarusian</span> <span 
 class="cmr-10">State</span> <span 
 class="cmr-10">University</span></span></a><span 
-class="cmr-10">, Minsk, Belarus. Practical experience in audio</span>
+class="cmr-10">, Minsk, Belarus. Practical experience in</span>
 <span 
-class="cmr-10">signal processing, developing techniques for speech/music separation. </span><br 
+class="cmr-10">audio signal processing, developing techniques for speech/music separation. </span><br 
 class="newline" />
 <!--l. 51--><p class="noindent" ><span 
-class="cmti-12">Scientific interests</span><span 
+class="cmti-12">Scientific interests </span><span 
 class="cmr-10">Digital signal processing, music information retrieval, music transcription (automatic chord</span>
 <span 
 class="cmr-10">recognition, beat-downbeat detection, key detection), machine learning and pattern recognition.</span>
-<!--l. 59--><p class="noindent" >
-<h3 class="sectionHead"><span class="titlemark"><span 
-class="cmr-10">3   </span></span> <a 
- id="x1-30003"></a><span 
-class="cmr-10">Technical skills</span></h3>
-<!--l. 61--><p class="noindent" ><span 
-class="cmti-12">Operating systems</span><span 
-class="cmr-10">Linux, Windows, Mac OS X </span><br 
-class="newline" /><span 
-class="cmti-12">Programming languages</span><span 
-class="cmr-10">Java, Matlab, C/C++, shell scripting, Python </span><br 
-class="newline" /><span 
-class="cmti-12">Technologies</span><span 
-class="cmr-10">J2EE, JUnit, Apache Maven, Apache Ant, Apache Tomcat, Hibernate, Struts, Spring, Swing, XML, XSLT,</span>
-<span 
-class="cmr-10">MySQL</span>
-<!--l. 69--><p class="noindent" >
-<h3 class="sectionHead"><span class="titlemark"><span 
-class="cmr-10">4   </span></span> <a 
- id="x1-40004"></a><span 
+<!--l. 58--><p class="noindent" >
+<h3 class="sectionHead"><a 
+ id="x1-3000"></a><span 
 class="cmr-10">Publications</span></h3>
-<!--l. 70--><p class="noindent" ><span 
-class="cmti-12">Conference papers</span><span 
+<!--l. 59--><p class="noindent" ><span 
+class="cmti-12">Conference papers </span><span 
 class="cmr-10">1. M. Khadkevich and M. Omologo. </span><a 
 href="http://mirlab.org/conference_papers/International_Conference/ICASSP" 2011/pdfs/0000181.pdf ><span class="uline"><span 
 class="cmr-10">Time-frequency</span> <span 
@@ -151,7 +136,7 @@ class="cmr-10">chord</span>
 class="cmr-10">recognition</span></span></a><span 
 class="cmr-10">. IEEE - ICASSP Prague, Czech 2011. </span><br 
 class="newline" />
-<!--l. 72--><p class="noindent" ><span 
+<!--l. 61--><p class="noindent" > <span 
 class="cmr-10">2. M. Khadkevich and M. Omologo. </span><a 
 href="http://ismir2009.ismir.net/proceedings/OS7-4.pdf" ><span class="uline"><span 
 class="cmr-10">Use</span> <span 
@@ -170,7 +155,7 @@ class="cmr-10">Chord</span>
 class="cmr-10">Recognition</span></span></a><span 
 class="cmr-10">. In Proceedings of ISMIR, Kobe, Japan, 2009. </span><br 
 class="newline" />
-<!--l. 74--><p class="noindent" ><span 
+<!--l. 63--><p class="noindent" > <span 
 class="cmr-10">3. M. Khadkevich and M. Omologo. </span><a 
 href="http://dafx09.como.polimi.it/proceedings/papers/paper_100.pdf" ><span class="uline"><span 
 class="cmr-10">Phase-change</span> <span 
@@ -184,15 +169,12 @@ class="cmr-10">. In Proceedings of DAFX,</span>
 <span 
 class="cmr-10">Como, Italy, 2009. </span><br 
 class="newline" />
-                                                                                               
-                                                                                               
-<!--l. 76--><p class="noindent" ><span 
-class="cmti-12">Submitted</span><span 
-class="cmr-10">4. M. Khadkevich, T. Fillon, G. Richard and M. Omologo. A Probabilistic approach to simultaneous extraction</span>
+<!--l. 65--><p class="noindent" > <span 
+class="cmr-10">4. M. Khadkevich, T. Fillon, G. Richard and M. Omologo. A Probabilistic approach to simultaneous extraction of beats</span>
 <span 
-class="cmr-10">of beats and downbeats. Submitted to ICASSP 2012. </span><br 
+class="cmr-10">and downbeats. Submitted to ICASSP 2012. </span><br 
 class="newline" />
-<!--l. 80--><p class="noindent" ><span 
+<!--l. 69--><p class="noindent" ><span 
 class="cmti-12">MIREX </span><span 
 class="cmr-10">M. Khadkevich and M. Omologo. </span><a 
 href="http://www.music-ir.org/mirex/abstracts/2008/khadkevich_omologo_final.pdf" ><span class="uline"><span 
@@ -210,7 +192,7 @@ class="cmr-10">Chord</span> <span
 class="cmr-10">Detection</span></span></a><span 
 class="cmr-10">.</span>
 <br 
-class="newline" /><span 
+class="newline" /> <span 
 class="cmr-10">M. Khadkevich and M. Omologo. </span><a 
 href="http://www.music-ir.org/mirex/abstracts/2009/KO.pdf" ><span class="uline"><span 
 class="cmr-10">Improved</span> <span 
@@ -223,11 +205,11 @@ class="cmr-10">2009</span></span></a> <span
 class="cmr-10">contest in </span><a 
 href="http://www.music-ir.org/mirex/wiki/2009:Audio_Chord_Detection_Results" ><span class="uline"><span 
 class="cmr-10">Audio</span> <span 
-class="cmr-10">Chord</span> <span 
+class="cmr-10">Chord</span>
+<span 
 class="cmr-10">Detection</span></span></a><span 
-class="cmr-10">.</span>
-<br 
-class="newline" /><span 
+class="cmr-10">. </span><br 
+class="newline" /> <span 
 class="cmr-10">M. Khadkevich and M. Omologo. </span><a 
 href="http://www.music-ir.org/mirex/abstracts/2010/MK1.pdf" ><span class="uline"><span 
 class="cmr-10">MIREX</span> <span 
@@ -244,37 +226,15 @@ class="cmr-10">Audio</span> <span
 class="cmr-10">Chord</span> <span 
 class="cmr-10">Detection</span></span></a><span 
 class="cmr-10">.</span>
+                                                                                               
+                                                                                               
 <br 
 class="newline" />
-<!--l. 84--><p class="noindent" ><span 
-class="cmti-12">MIREX pending </span><a 
-href="http://nema.lis.illinois.edu/nema_out/mirex2011/results/ace/" ><span class="uline"><span 
-class="cmr-10">Audio</span> <span 
-class="cmr-10">Chord</span> <span 
-class="cmr-10">Estimation</span></span></a><span 
-class="cmr-10">, </span><a 
-href="http://nema.lis.illinois.edu/nema_out/mirex2011/results/abt/mck/" ><span class="uline"><span 
-class="cmr-10">Audio</span> <span 
-class="cmr-10">Beat</span> <span 
-class="cmr-10">Tracking</span></span></a><span 
-class="cmr-10">, </span><a 
-href="http://nema.lis.illinois.edu/nema_out/mirex2011/results/akd/" ><span class="uline"><span 
-class="cmr-10">Audio</span> <span 
-class="cmr-10">Key</span> <span 
-class="cmr-10">Detection</span></span></a><span 
-class="cmr-10">. Submitted to </span><a 
-href="http://www.music-ir.org/mirex/results/2011/mirex_2011_poster.pdf" ><span class="uline"><span 
-class="cmr-10">MIREX</span> <span 
-class="cmr-10">2011</span></span></a><span 
-class="cmr-10">.</span>
-<br 
-class="newline" />
-<!--l. 94--><p class="noindent" >
-<h3 class="sectionHead"><span class="titlemark"><span 
-class="cmr-10">5   </span></span> <a 
- id="x1-50005"></a><span 
+<!--l. 76--><p class="noindent" >
+<h3 class="sectionHead"><a 
+ id="x1-4000"></a><span 
 class="cmr-10">Personal projects</span></h3>
-<!--l. 96--><p class="noindent" ><a 
+<!--l. 78--><p class="noindent" ><a 
 href="https://github.com/hutm/MART" ><span class="uline"><span 
 class="cmti-12">MART</span></span></a> <span 
 class="cmr-10">[Java, open-source] </span><a 
@@ -285,7 +245,7 @@ class="cmr-10">. Music Analysis, Recognition and Transcription</span>
 class="cmr-10">framework is aimed at creating tools to extract high-level information (chords, key, rhythm) from music signals.</span>
 <br 
 class="newline" />
-<!--l. 99--><p class="noindent" ><a 
+<!--l. 81--><p class="noindent" ><a 
 href="http://hutm.github.com/JSSRC" ><span class="uline"><span 
 class="cmti-12">JSSRC</span></span></a> <span 
 class="cmr-10">[Java, open-source] </span><a 
@@ -293,7 +253,7 @@ href="http://hutm.github.com/JSSRC" ><span class="uline"><span
 class="cmr-10">http://hutm.github.com/JSSRC</span></span></a><span 
 class="cmr-10">. High quality audio resampler. </span><br 
 class="newline" />
-<!--l. 102--><p class="noindent" ><a 
+<!--l. 84--><p class="noindent" ><a 
 href="http://hutm.github.com/JAMAL" ><span class="uline"><span 
 class="cmti-12">JAMAL</span></span></a> <span 
 class="cmr-10">[Java, open-source] </span><a 
@@ -302,12 +262,11 @@ class="cmr-10">http://hutm.github.com/JAMAL</span></span></a><span
 class="cmr-10">. JAva MAtlab Linking. RMI-based tool that makes it</span>
 <span 
 class="cmr-10">possible to call Matlab functions from Java programs.</span>
-<!--l. 107--><p class="noindent" >
-<h3 class="sectionHead"><span class="titlemark"><span 
-class="cmr-10">6   </span></span> <a 
- id="x1-60006"></a><span 
+<!--l. 89--><p class="noindent" >
+<h3 class="sectionHead"><a 
+ id="x1-5000"></a><span 
 class="cmr-10">Languages</span></h3>
-<!--l. 108--><p class="noindent" ><span 
+<!--l. 90--><p class="noindent" ><span 
 class="cmti-12">Russian, Belarusian</span><span 
 class="cmr-10">mother tongue </span><br 
 class="newline" /><span 
@@ -317,6 +276,4 @@ class="newline" /><span
 class="cmti-12">Italian, French</span><span 
 class="cmr-10">basic knowledge </span><br 
 class="newline" />
-                                                                                               
-
 
