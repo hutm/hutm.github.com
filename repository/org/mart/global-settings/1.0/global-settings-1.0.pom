@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.mart</groupId>
+    <artifactId>global-settings</artifactId>
+    <version>1.0</version>
+    <packaging>pom</packaging>
+
+
+
+    <distributionManagement>
+        <snapshotRepository>
+            <id>repo-snapshot</id>
+            <name>Snapshots repository</name>
+            <url>${repo-snapshot-url}</url>
+        </snapshotRepository>
+        <repository>
+            <id>repo-release</id>
+            <name>Release repository</name>
+            <url>${repo-release-url}</url>
+        </repository>
+    </distributionManagement>
+
+    <modules>
+        <module>../jamal</module>
+        <module>../jssrc</module>
+        <module>../mart</module>
+        <module>../musique</module>
+        <module>../nema</module>
+        <module>../tools</module>
+    </modules>
+
+
+    
+</project>

@@ -1,5 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <parent>
+        <groupId>org.mart.tools</groupId>
+        <artifactId>tools</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </parent>
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>rasmus</groupId>
@@ -7,14 +12,24 @@
     <packaging>jar</packaging>
     <version>1.0</version>
     <name>rasmusDSP</name>
-    <url>http://maven.apache.org</url>
+    <url>http://sourceforge.net/projects/rasmusdsp/</url>
 
-    <distributionManagement>
-        <repository>
-            <id>repo</id>
-            <name>khadkevich</name>
-            <url>file:///home/hut/prg/PROJECTS/WEBPAGES/repository/</url>
-        </repository>
-    </distributionManagement>
+
+
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>2.3.2</version>
+                <configuration>
+                    <source>1.6</source>
+                    <target>1.6</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
 
 </project>

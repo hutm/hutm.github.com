@@ -2,11 +2,11 @@
 <metadata>
   <groupId>com.jcraft</groupId>
   <artifactId>jorbis</artifactId>
-  <version>1.0</version>
+  <version>0.0.17</version>
   <versioning>
     <versions>
-      <version>1.0</version>
+      <version>0.0.17</version>
     </versions>
-    <lastUpdated>20110919001658</lastUpdated>
+    <lastUpdated>20121023130004</lastUpdated>
   </versioning>
 </metadata>

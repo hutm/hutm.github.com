@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.xiph</groupId>
+  <artifactId>vorbis-java</artifactId>
+  <version>1.0.0-beta</version>
+  <versioning>
+    <versions>
+      <version>1.0.0-beta</version>
+    </versions>
+    <lastUpdated>20121023130004</lastUpdated>
+  </versioning>
+</metadata>
