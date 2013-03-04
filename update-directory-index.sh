@@ -10,4 +10,4 @@ for DIR in $(find ./repository -type d) $(find ./snapshots -type d); do
   ) > "${DIR}/index.html"
 done
 
-echo `date` > ./log && git add -u . && git add . && git commit -m "added new artifacts" && git push
+echo `date` >> ./log && git add -u . && git add . && git commit -m "added new artifacts" && git push

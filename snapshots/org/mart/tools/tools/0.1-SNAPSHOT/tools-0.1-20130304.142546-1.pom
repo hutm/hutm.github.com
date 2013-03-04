@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <version>0.1-SNAPSHOT</version>
+    <groupId>org.mart.tools</groupId>
+    <artifactId>tools</artifactId>
+    <name>tools</name>
+    <packaging>pom</packaging>
+
+    <distributionManagement>
+        <snapshotRepository>
+            <id>repo-snapshot</id>
+            <name>Snapshots repository</name>
+            <url>${env.MAVEN_ARTIFACTORY_SNAPSHOTS}</url>
+        </snapshotRepository>
+        <repository>
+            <id>repo-release</id>
+            <name>Release repository</name>
+            <url>${env.MAVEN_ARTIFACTORY}</url>
+        </repository>
+    </distributionManagement>
+
+
+    <modules>
+        <module>rasmusDSP</module>
+        <module>KaraokeMidiJava</module>
+        <module>epsGraphics</module>
+        <module>kylm</module>
+    </modules>
+
+</project>

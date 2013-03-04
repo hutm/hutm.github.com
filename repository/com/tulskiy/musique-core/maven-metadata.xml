@@ -2,11 +2,11 @@
 <metadata>
   <groupId>com.tulskiy</groupId>
   <artifactId>musique-core</artifactId>
-  <version>0.3-SNAPSHOT</version>
+  <version>0.3</version>
   <versioning>
     <versions>
-      <version>0.3-SNAPSHOT</version>
+      <version>0.3</version>
     </versions>
-    <lastUpdated>20121023130006</lastUpdated>
+    <lastUpdated>20130304133958</lastUpdated>
   </versioning>
 </metadata>
