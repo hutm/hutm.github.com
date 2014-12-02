@@ -1,8 +1,0 @@
-Options -Indexes +FollowSymLinks
-
-RewriteEngine On
-RewriteBase /
-RewriteCond %{HTTP_HOST} ^khadkevich.org [NC]
-RewriteRule ^(.*)$ http://www.khadkevich.org$1 [L,R=301]
-
-RedirectMatch 301 ^/JAMAL/(.*)$ http://jamal.khadkevich.org/$1
